@@ -1,4 +1,4 @@
-class Fish < Formula
+class FishAT400 < Formula
   desc "User-friendly command-line shell for UNIX-like operating systems"
   homepage "https://fishshell.com"
   url "https://github.com/fish-shell/fish-shell/releases/download/4.0.0/fish-4.0.0.tar.xz"
